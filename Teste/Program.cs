@@ -6,7 +6,8 @@ namespace Teste
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Ola Mundo!");
+            Console.WriteLine("Bom dia!");
         }
     }
 }
