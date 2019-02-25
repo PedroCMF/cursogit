@@ -7,8 +7,8 @@ namespace Teste
         static void Main(string[] args)
         {
             Console.WriteLine("Ola Mundo!");
-            Console.WriteLine("Como voce está hoje!");
             Console.WriteLine("Nova versao");
+            Console.WriteLine("como está tudo bem");
         }
     }
 }
