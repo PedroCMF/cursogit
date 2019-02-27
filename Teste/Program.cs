@@ -6,11 +6,13 @@ namespace Teste
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("------------------------------------------");
             Console.WriteLine("Ola Mundo!");
             Console.WriteLine("Nova versao");
             Console.WriteLine("nova nova");
             Console.WriteLine("como está tudo bem");
-            Console.WriteLine("Thau"); 
+            Console.WriteLine("Thau");
+            Console.WriteLine("------------------------------------------");
         }
     }
 }
